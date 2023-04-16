@@ -1,3 +1,23 @@
+body{
+	background-color: #1F2039;
+	color: #F9F8FF;
+}
+h1{
+	background: linear-gradient(90deg, #8360c3, #2ebf91);
+	font-family: helvetica;
+	font-style: italic;
+	font-size: 2.3em;
+	text-align: center;
+	color:#242424;
+}
 a{
 	color: gray;
+	font-weight: bold;
+	font-size: 1.3em;
+	text-decoration: none;
+}
+p{
+	font-size: 1.3em;
+	font-family: 'Chivo Mono', 'Trebuchet Ms', "sans-serif";
+	font-style: italic;
 }
