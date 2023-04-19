@@ -10,13 +10,17 @@ h1{
 	text-align: center;
 	color:#242424;
 }
+.table{
+	border-left: 0.5em solid skyblue;
+	padding-left: 1em;
+}
 a{
 	color: gray;
 	font-weight: bold;
 	font-size: 1.3em;
 	text-decoration: none;
 }
-p{
+p, ol{
 	font-size: 1.3em;
 	font-family: 'Chivo Mono', 'Trebuchet Ms', "sans-serif";
 	font-style: italic;
